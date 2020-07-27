@@ -5,7 +5,9 @@ function Footer() {
   return (
     <FooterBase>
       <p>
-        Desenvolvido por Italo Ribeiro durante a imersão React
+        Desenvolvido por <a href="https://github.com/italoribeiroc/" target="_blank" rel="noopener noreferrer"> 
+          Italo Ribeiro
+        </a> durante a imersão React
       </p>
     </FooterBase>
   );

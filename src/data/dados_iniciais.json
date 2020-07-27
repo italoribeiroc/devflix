@@ -100,24 +100,24 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Desgin UX/UI",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Tutorial Completo de FIGMA",
+          "url": "https://www.youtube.com/watch?v=vg-INqhKD5c&t=864s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Como é o dia a dia do designer de interfaces?",
+          "url": "https://www.youtube.com/watch?v=InGacP20a14"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Como criar um portfolio de UX Design?",
+          "url": "https://www.youtube.com/watch?v=2RfbZzSOhvk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Dicas e boas práticas de UI Design",
+          "url": "https://www.youtube.com/watch?v=opR6OGBmsO8"
         }
       ]
     },
